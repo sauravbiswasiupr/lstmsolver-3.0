@@ -1,6 +1,7 @@
 This library is a fast implementation of standard neural network architectures namely Multilayer Perceptrons and its variants. It also implements networks networks such as RNNs and LSTMs which act on time sequence inputs. 
 
-####INSTALLATION INSTRUCTIONS############
+Installation Instructions
+-------------------------
 
 Assuming you have extracted the tarball to an appropriate directory. Just issue the following command in the terminal 
 
