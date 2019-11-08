@@ -12,7 +12,7 @@ This will install in the default directory /usr/local/python2.7/dist-packages/
 
 If you want to do a local install use:
 
-```$python setup.py install --prefix=/usr/local```
+```$ python setup.py install --prefix=/usr/local```
 
 
 
